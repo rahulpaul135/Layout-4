@@ -1,0 +1,141 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+.header{
+    overflow: hidden;
+}
+.logo{
+    color: black;
+    background-color: rgb(0, 204, 255);
+    text-align: center;
+    width: 20%;
+    height: 100px;
+    float: left;
+}
+.middle_header{
+    color: tomato;
+    background-color: teal;
+    text-align: center;
+    width: 60%;
+    height: 100px;
+    float: left;
+}
+.last_header{
+    color: violet;
+    background-color: darkolivegreen;
+    text-align: center;
+    width: 20%;
+    height: 100px;
+    float: right;
+}
+.header_bar{
+    color: rgb(255, 208, 0);
+    background-color: darkslateblue;
+    text-align: center;
+    height: 50px;
+}
+.center_content{
+    overflow: hidden;
+}
+.left{
+    color: ghostwhite;
+    background-color: gold;
+    text-align:center;
+    width: 33.33%;
+    height: 400px;
+    float: left;
+}
+.left_top{
+    color: rgb(0, 0, 0);
+    background-color: gold;
+    height: 200px;
+}
+.left_bottom{
+    color: honeydew;
+    background-color: indianred;
+    height: 200px;
+}
+.middle{
+    color: ghostwhite;
+    background-color: gold;
+    text-align:center;
+    width: 33.34%;
+    height: 400px;
+    float: left;
+}
+.middle_top{
+    color: rgb(255, 255, 255);
+    background-color: indianred;
+    height: 200px;
+}
+.middle_bottom{
+    color: rgb(0, 0, 0);
+    background-color: gold;
+    height: 200px;
+}
+.right{
+    color: ghostwhite;
+    background-color: gold;
+    text-align:center;
+    width: 33.33%;
+    height: 400px;
+    float: left;
+}
+.right_top{
+    color: rgb(0, 0, 0);
+    background-color: gold;
+    height: 200px;
+}
+.right_bottom{
+    color: rgb(255, 255, 255);
+    background-color:indianred;
+    height: 200px;
+}
+
+.main_content{
+    overflow: hidden;
+}
+.left_main{
+    color: rgb(0, 0, 0);
+    background-color: rgb(0, 174, 255);
+    height: 200px;
+    width: 25%;
+    float: left;
+    text-align: center;
+}
+.middle_main{
+    color: rgb(255, 255, 255);
+    background-color:rgb(119, 0, 255);
+    height: 200px;
+    width: 50%;
+    float: left;
+    text-align: center;
+}
+.right_main{ 
+    color: rgb(0, 0, 0);
+    background-color: lightseagreen;
+    height: 200px;
+    width: 25%;
+    float: left;
+    text-align: center;
+}
+.footer{
+   overflow: hidden; 
+}
+.left_footer{
+    color: rgb(0, 0, 0);
+    background-color: mediumturquoise;
+    text-align: center;
+    width: 50%;
+    float: left;
+    height: 100px;
+}
+.right_footer{
+    color: rgb(255, 255, 255);
+    background-color: rgb(38, 0, 255);
+    text-align: center;
+    width: 50%;
+    float: left;
+    height: 100px;
+}
